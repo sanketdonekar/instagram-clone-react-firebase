@@ -5,8 +5,6 @@
 .app-headerImage {
   object-fit: contain;
   max-width: 15%;
-  
-  
 }
 
 .App {
@@ -17,4 +15,9 @@
   padding: 20px;
   background-color: white;
   border-bottom: 1px solid lightgray;
+}
+
+.app-signup {
+  display: flex;
+  flex-direction: column;
 }
